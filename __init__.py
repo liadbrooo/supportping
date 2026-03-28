@@ -1,4 +1,4 @@
-from .supportping import SupportPing  # importiere die Klasse aus supportping.py
+from .supportping import SupportPing
 
 def setup(bot):
     """Cog laden"""
